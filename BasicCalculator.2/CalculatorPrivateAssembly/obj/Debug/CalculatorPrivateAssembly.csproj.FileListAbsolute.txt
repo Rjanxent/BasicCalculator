@@ -1,0 +1,6 @@
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.dll
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.pdb

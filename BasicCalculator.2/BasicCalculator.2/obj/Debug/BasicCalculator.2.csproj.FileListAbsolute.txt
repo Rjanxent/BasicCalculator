@@ -1,0 +1,13 @@
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\bin\Debug\BasicCalculator.2.exe.config
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\bin\Debug\BasicCalculator.2.exe
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\bin\Debug\BasicCalculator.2.pdb
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator.2.csproj.AssemblyReference.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator._2.Form1.resources
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator._2.Properties.Resources.resources
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator.2.csproj.GenerateResource.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator.2.csproj.CoreCompileInputs.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator.2.exe
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCalculator.2.pdb
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator.2\BasicCalculator.2\obj\Debug\BasicCal.90BF1FD5.Up2Date
